@@ -4,7 +4,7 @@ A Flutter-based Task Manager Application using **Firebase** as a Backend-as-a-Se
 
 ---
 
-## 📱 App Screenshots
+## 📱 App Flow
 
 > Register → Login → Add Tasks → Edit → Delete → Logout
 
@@ -82,6 +82,43 @@ users/
 ```
 
 ---
+> Visual walkthrough of the application:
+
+## 📸 Screenshots
+
+> Screens below demonstrate complete app flow from authentication to CRUD operations and Firebase integration.
+
+### 🔐 Authentication
+
+| Login | Register |
+|------|---------|
+| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
+
+---
+
+### 📝 Task Management
+
+| Home | Add Task |
+|------|----------|
+| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) |
+
+| Edit Task | Delete Task |
+|----------|-------------|
+| ![Edit](screenshots/edit.png) | ![Delete](screenshots/delete.png) |
+
+| Completed Task | Empty State |
+|---------------|-------------|
+| ![Complete](screenshots/complete.png) | ![Empty](screenshots/empty.png) |
+
+---
+
+### ☁️ Firebase Backend
+
+| Firestore Data |
+|----------------|
+| ![Firebase](screenshots/firebase.png) |
+
+---
 
 ## ⚙️ Setup Instructions
 
@@ -133,23 +170,10 @@ dependencies:
 
 ## 🎥 Demo Video
 
-https://youtu.be/IBX3NNwu-tA(#) ← *(Add your YouTube link here)*
+[Watch Demo Video](https://youtu.be/IBX3NNwu-tA)
 
 ---
 
-## 📊 Assignment Deliverables
-
-| Deliverable | Status |
-|-------------|--------|
-| Flutter App with CRUD | ✅ Done |
-| Firebase BaaS Integration | ✅ Done |
-| User Authentication | ✅ Done |
-| Real-Time Database Sync | ✅ Done |
-| GitHub Repository | ✅ Done |
-| YouTube Demo Video | ✅ Done |
-| PPT Presentation | ✅ Done |
-
----
 
 ## 👩‍💻 Developer
 
